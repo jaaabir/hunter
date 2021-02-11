@@ -31,7 +31,7 @@
 [0](https://hunter.io/api-documentation/v2#domain-search) - search by domain (domain search) <br>
 [1](https://hunter.io/api-documentation/v2#email-finder) - gets the info for the specified person (email finder) <br>
 [2](https://hunter.io/api-documentation/v2#email-verifier) - gets the info for the specified email (email verifier) <br>
-[3](https://hunter.io/api-documentation/v2#email-count) - gets the number of emails in the specified domain (email counter) Saves the output to a file <br>
+[3](https://hunter.io/api-documentation/v2#email-count) - gets the number of emails in the specified domain (email counter) <br>
 <br>
 **use --output or -o to save the result in a csv file** 
 <br>
